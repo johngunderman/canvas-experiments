@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h1 {
+    text-align: center;
+    font: bold 40px sans-serif;
+}
+
+#board {
+    border:1px dashed #333;
+}
